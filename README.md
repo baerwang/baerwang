@@ -1,5 +1,7 @@
-<div align=center>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=baerwang&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baerwang&layout=compact&theme=radical" />
-</div>
+## flag:
 
+- 基础踏实，有一技之长，对某个技术领域有自己的见解。
+- 在实际工作中，有较深的 Java 或 Golang 实践经验。
+- 聊起技术就两眼发光，饥渴难耐的求知欲。有一定的技术敏感度和视野。
+- 具备良好的学习能力和问题分析能力，关注社区动态及技术发展趋势，拥抱开源。
+- 具有很强的分析和解决复杂问题的能力，有强烈的责任心和使命感，良好的沟通表达能力和团队协作能力。
