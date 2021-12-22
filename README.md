@@ -1,1 +1,2 @@
 - You are responsible for your dreams
+- How to reach me: baerwang@126.com
