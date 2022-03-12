@@ -27,7 +27,6 @@
 -  **Skills :** Golang, Java, Rust, Python, Distributed, Infrastructure, PostgreSQL
 -  **Hobbies :** Bike :bike: & basketball :basketball:
 -  **Job :** Backend Developer in [ASants](https://www.asants.com)
--  **Fact :** Keep Eyes and Ears Open :heart:
 -  **Contact me :** [XiaoXiong Wang](mailto:baerwang@126.com)
 
 ### Languages and Tools
