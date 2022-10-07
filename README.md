@@ -12,3 +12,5 @@
 -  **Hobbies :** Bike :bike: & basketball :basketball:
 -  **Job :** Backend Developer in [ASants](https://www.asants.com)
 -  **Contact me :** [XiaoXiong Wang](mailto:baerwang@126.com)
+
+![ ](https://raw.githubusercontent.com/hoochanlon/hoochanlon/master/assets/github-contribution-grid-snake.svg)
