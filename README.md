@@ -10,7 +10,7 @@
 -  **Focusing :** dubbo-go-pixiu, dubbo-go :fire: 
 -  **Skills :** Golang, Java, Rust, Python, Distributed, Infrastructure, PostgreSQL...
 -  **Hobbies :** Bike :bike: & basketball :basketball:
--  **Job :** Backend Developer in [ASants](https://www.asants.com)
+-  **Job :** Architecture group Develope in [ASants](https://www.asants.com)
 -  **Contact me :** [XiaoXiong Wang](mailto:baerwang@126.com)
 
 ![ ](https://raw.githubusercontent.com/hoochanlon/hoochanlon/master/assets/github-contribution-grid-snake.svg)
