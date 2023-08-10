@@ -1,6 +1,6 @@
 ###  :man_technologist:  [XiaoXiong Wang](https://baerwang.github.io)
 
-👋 Hi, I'm a platform developer focused on architecture, interested in cloud native and information, Web3 🚀. 
+👋 Hi, I'm a platform developer focused on architecture, interested in cloud native, information security and Web3 🚀. 
 
 ### About Me
 
