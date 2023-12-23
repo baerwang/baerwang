@@ -11,6 +11,6 @@
 -  **Skills :** Golang, Java, Rust, Python, Distributed, Infrastructure, PostgreSQL...
 -  **Hobbies :** Bike :bike: & basketball :basketball:
 -  **Contact me :** [XiaoXiong Wang](mailto:baerwang@126.com)
--  Need to work,Base(Shanghai,Beijing,Remote)
+-  **I need a job, no matter where it is,Please can you contact me thanks**
 
 ![ ](https://raw.githubusercontent.com/hoochanlon/hoochanlon/master/assets/github-contribution-grid-snake.svg)
