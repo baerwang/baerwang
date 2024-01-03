@@ -4,7 +4,7 @@
 
 ### About Me
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=baerwang&show_icons=true&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<img width="28%" align="right" src="https://raw.githubusercontent.com/ErikJiang/ErikJiang/main/giphy.webp" />
 </html>
 
 -  **Focusing :** dubbo-go-pixiu, dubbo-go :fire: 
